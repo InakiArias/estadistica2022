@@ -1,6 +1,5 @@
 const average = (arr) => arr.reduce((a, b) => a + b, 0) / arr.length;
 
-
 let str = `1 3,73 5,23 11 3,64 5,37
 2 3,16 4,82 12 3,27 4,42
 3 3,56 4,98 13 3,16 4,85
